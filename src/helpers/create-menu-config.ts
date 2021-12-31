@@ -2,11 +2,11 @@ const appleMenu = {
   title: 'apple',
   menu: {
     'about-this-mac': {
-      title: 'About This Mac',
+      title: 'About This Desktop',
       breakAfter: true,
     },
     'system-preferences': {
-      title: 'System Preferences...',
+      title: 'Settings...',
     },
     'app-store': {
       title: 'App Store...',
