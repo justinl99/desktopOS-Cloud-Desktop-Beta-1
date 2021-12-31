@@ -17,7 +17,7 @@ export const finderMenuConfig = createMenuConfig({
         breakAfter: true,
       },
       'hide-finder': {
-        title: 'Hide Finder',
+        title: 'Hide Desktop',
       },
       'hide-others': {
         title: 'Hide Others',
