@@ -5,7 +5,7 @@ export const finderMenuConfig = createMenuConfig({
     title: 'Finder',
     menu: {
       'about-finder': {
-        title: 'About Finder',
+        title: 'About desktopOS',
         breakAfter: true,
       },
       preferences: {
@@ -33,7 +33,7 @@ export const finderMenuConfig = createMenuConfig({
     title: 'File',
     menu: {
       'new-finder-window': {
-        title: 'New Finder Window',
+        title: 'New Desktop Window',
       },
       'new-folder': {
         title: 'New Folder',
@@ -375,11 +375,11 @@ export const finderMenuConfig = createMenuConfig({
     title: 'Help',
     menu: {
       'send-finder-feedback': {
-        title: 'Send Finder Feedback',
+        title: 'Send desktopOS Feedback',
         breakAfter: true,
       },
       'macos-help': {
-        title: 'macOS Help',
+        title: 'desktopOS Help',
       },
     },
   },
