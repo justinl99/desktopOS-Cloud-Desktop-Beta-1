@@ -6,8 +6,8 @@ import { Dock } from '__/components/dock/Dock';
 import { TopBar } from '__/components/topbar/TopBar';
 import css from './Desktop.module.scss';
 
-const DarkBackground = '/assets/wallpapers/3-1.jpg';
-const LightBackground = '/assets/wallpapers/3-2.jpg';
+const DarkBackground = '/assets/wallpapers/macOS Mountains Dark.jpg';
+const LightBackground = '/assets/wallpapers/macOS Mountains.jpg';
 
 export const Desktop = () => {
   const outerRef = useRef<HTMLDivElement>();
