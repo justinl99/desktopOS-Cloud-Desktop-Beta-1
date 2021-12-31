@@ -2,7 +2,7 @@ import { createMenuConfig } from '__/helpers/create-menu-config';
 
 export const finderMenuConfig = createMenuConfig({
   default: {
-    title: 'Finder',
+    title: 'Desktop',
     menu: {
       'about-finder': {
         title: 'About desktopOS',
