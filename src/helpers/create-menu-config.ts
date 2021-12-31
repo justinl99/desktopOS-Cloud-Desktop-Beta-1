@@ -31,7 +31,7 @@ const appleMenu = {
       breakAfter: true,
     },
     'lock-screen': {
-      title: 'Lock Screen',
+      title: 'Lock',
     },
     logout: {
       title: 'Log Out User...',
