@@ -6,10 +6,8 @@ import { launchpadAppConfig } from './launchpad.app-config';
 import { mailAppConfig } from './mail.app-config';
 import { messagesAppConfig } from './messages.app-config';
 import { photosAppConfig } from './photos.app-config';
-import { purusTwitterAppConfig } from './purus-twitter.app-config';
 import { safariAppConfig } from './safari.app-config';
 import { systemPreferencesAppConfig } from './system-preferences.app-config';
-import { viewSourceAppConfig } from './view-source.app-config';
 import { vscodeAppConfig } from './vscode.app-config';
 
 export const appsConfig = {
@@ -24,6 +22,4 @@ export const appsConfig = {
   facetime: facetimeAppConfig,
   'system-preferences': systemPreferencesAppConfig,
 
-  'purus-twitter': purusTwitterAppConfig,
-  'view-source': viewSourceAppConfig,
 };
