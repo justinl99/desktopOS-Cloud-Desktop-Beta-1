@@ -2,6 +2,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Thử ngay: [desktopOS Cloud Desktop Beta 1](https://desktop-os-cloud-desktop-beta-1.vercel.app/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-# Dự án này dựa trên [macOS Web](https://macos.vercel.app/) của [Puru Vj](https://github.com/PuruVJ) Tìm hiểu thêm tại [đây](https://github.com/puruvj/macos-web)
+# Dự án này dựa trên [macOS Web](https://macos.vercel.app/) của [Puru Vj](https://github.com/PuruVJ). Tìm hiểu thêm tại [đây](https://github.com/puruvj/macos-web)
 
 
